@@ -41,13 +41,16 @@
         ],
         "git": [
             {
-                "link": "https://kikoo-fc728.web.app"
+                "link": "https://kikoo-fc728.web.app",
+                "codes": "Preview"
             },
             {
-                "link": "https://github.com/wdkabir/kikoo-niche-website-client-side"
+                "link": "https://github.com/wdkabir/kikoo-niche-website-client-side",
+                "codes": "Client Side Code"
             },
             {
-                "link": "https://github.com/wdkabir/kikoo-niche-website-server-side"
+                "link": "https://github.com/wdkabir/kikoo-niche-website-server-side",
+                "codes": "Server Side Code"
             }
         ]
     }
