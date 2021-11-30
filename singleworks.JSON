@@ -189,5 +189,56 @@
                 "codes": "View Code"
             }
         ]
+    },
+    {
+        "key": 4,
+        "title": "Honda-CBR",
+        "about": "Simple Bootstrap Responsive Landing-page. This site is about a Honda Blog. Have all Honda-CBR Information in this website.",
+        "technology": [
+            {
+                "use": "HTML"
+            },
+            {
+                "use": "CSS"
+            },
+            {
+                "use": "BOOTSTRAP"
+            },
+            {
+                "use": "NETLIFY"
+            }
+        ],
+        "description": [
+            {
+                "power": "I used HTML, CSS, and Bootstrap to design this site."
+            },
+            {
+                "power": "I used a bootstrap card, form, vertically collapsing accordions."
+            },
+            {
+                "power": "I used Bootstrap for all components for device responsiveness."
+            }
+        ],
+        "img": [
+            {
+                "images": "https://github.com/wdkabir/mdkabir-portfolio-images/blob/main/honda-slider1.jpg?raw=true"
+            },
+            {
+                "images": "https://github.com/wdkabir/mdkabir-portfolio-images/blob/main/honda-slider2.jpg?raw=true"
+            },
+            {
+                "images": "https://github.com/wdkabir/mdkabir-portfolio-images/blob/main/honda-slider3.jpg?raw=true"
+            }
+        ],
+        "git": [
+            {
+                "link": "https://honda-cbr-kabir.netlify.app",
+                "codes": "Preview"
+            },
+            {
+                "link": "https://github.com/wdkabir/honda-cbr-responsive-website",
+                "codes": "View Code"
+            }
+        ]
     }
 ]
